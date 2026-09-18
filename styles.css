@@ -208,6 +208,7 @@
     height: 25px;
     border-radius: 5px;
     background-color: darkgrey;
+    outline: none;
 }
 h1{
     color: white;
